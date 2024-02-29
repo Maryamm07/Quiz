@@ -32,10 +32,10 @@
 }
 @media (max-width: 660px){
     .title{
-        margin-top: 8rem;
+        margin-top: 0rem;
         margin-left: 0.8rem;
-        width: 89%;
-        height: 36vh;
+        width: 80%;
+        height: 50%;
     }
     .title h1{
         font-size: 1.3rem;
