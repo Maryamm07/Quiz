@@ -1,6 +1,6 @@
 .user{
     width: 100%;
-    height: 30vh;
+    height: 26vh;
     background-color: #2F3C7E;
     border-radius: 8px;
     padding: 1rem;
@@ -43,7 +43,7 @@
         margin-top: 8rem;
         margin-left: 0.4rem;
         width: 85%;
-        height: 30vh;
+        height: 27vh;
     }
     .btn1 button{
         width: 90%;
